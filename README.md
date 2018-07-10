@@ -1,6 +1,9 @@
 # Mongoose-Case-Study2
 Easy notes application
------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------
+To view the complete code please download the casestudy2.zip file...Also i have uploaded files individually incase the zip doesnt get downloaded successfully...
+----------------------------------------------------------------------------------------------------------------------
 
 Please follow the below steps to run the application
 1) npm init-> to create the package.json file
