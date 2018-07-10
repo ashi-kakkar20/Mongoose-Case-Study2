@@ -1,0 +1,1 @@
+var options={ user:'myTester', pass:'xyz123'} //database credentials
